@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub.
-myName is Aljawharah
+myName is Aljawharah.
